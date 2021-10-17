@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.playerChoice {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.results {
+  text-align: center;
+}
